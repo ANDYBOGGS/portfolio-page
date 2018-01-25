@@ -19,8 +19,13 @@ img.align-center {
   margin: 25px auto 25px auto;
   width: 90%;
   border: 3px solid black;
-  padding: 4px;
+  padding: 6px;
   background-color: #efefef;
+}
+
+.skinny {
+  width: 90%;
+  font-size: 18px;
 }
 
 h3 {
@@ -28,19 +33,22 @@ h3 {
 }
 
 h4 {
-  text-align: center;
   letter-spacing: .5em;
   font-size: 25px;
   margin-top: 30px;
 }
 
-p {
-  width: 90%;
+.center {
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
 }
+
 .lefties {
   float: left;
   margin-left: 10%;
   margin-right: 5px;
+
 }
 
 .top {
