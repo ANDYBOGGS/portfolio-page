@@ -7,10 +7,35 @@ h1 {
   padding: 10px;
   margin: 0px;
   width: 100%;
-
+  background-color: #efefef;
 }
 
 img.align-center {
   display: block;
   margin: 10px auto;
+}
+
+.aboutme {
+  margin: 25px auto 25px auto;
+  width: 90%;
+  border: 3px solid black;
+  padding: 4px;
+  background-color: #efefef;
+}
+
+h3 {
+  margin-left: 10%;
+}
+
+p {
+  width: 90%;
+}
+.lefties {
+  float: left;
+  margin-left: 10%;
+  margin-right: 5px;
+}
+
+.top {
+  margin-top: 50px;
 }
