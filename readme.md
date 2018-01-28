@@ -2,7 +2,7 @@
 
 #### HTML/CSS website exercise, 2018
 
-http://ghpages.io/portfolio-page
+https://andyboggs.github.io/portfolio-page/
 
 #### By Andrew Jacob Boggs
 
@@ -20,7 +20,7 @@ A basic webpage using CSS, Bootstrap & HTML used as a web programing portfolio. 
 
 ## Known Bugs
 
-There are no known bugs at this time
+The images for Band-Webpage2 are not appearing through the gh-pages link. 
 
 ## Support and contact details
 
