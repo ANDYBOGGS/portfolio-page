@@ -23,9 +23,18 @@ img.align-center {
   background-color: #efefef;
 }
 
+.special {
+  font-style: italic;
+}
+
 .skinny {
   width: 90%;
   font-size: 18px;
+}
+
+h2 {
+  text-align: center;
+  text-shadow: 4px 3px grey;
 }
 
 h3 {
